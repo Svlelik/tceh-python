@@ -1,5 +1,3 @@
-#Num Types:
-
 # ints:
 print('1 + 2 = ', 1 + 2)
 print('5 * 9 = ', 5 * 9)
